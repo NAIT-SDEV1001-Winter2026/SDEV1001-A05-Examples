@@ -1,1 +1,1 @@
-This Repository contains examples completed in class. Clone this Repository once onto your computer. To get the updates to this Repository, ensure you are in the local Repository on your computer and use git pull to pull the new content from GitHub to your local Repository..
+This Repository contains examples completed in class. Clone this Repository once onto your computer. To get the updates to this Repository, ensure you are in the local Repository on your computer and use git pull to pull the new content from GitHub to your local Repository.
