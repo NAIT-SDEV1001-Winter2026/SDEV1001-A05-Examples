@@ -1,0 +1,6 @@
+user_input = input("PLease enter 3 numbers, seperated by a comma: ")
+x,y,z = map(int,user_input.split(","))
+print(x)
+print(y)
+print(z)
+print(x,y,z)
